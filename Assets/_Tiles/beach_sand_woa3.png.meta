@@ -1,0 +1,3823 @@
+fileFormatVersion: 2
+guid: 76aeb662b36f92540a872bacd135ea6f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beach_sand_woa3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8d47694981b184c90be41b49a2f546
+      internalID: -1205438531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 762
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6eddf726e402e4e9970260866c3117
+      internalID: -1746021042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 762
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d732397b2b9fd47488103cf096e1f844
+      internalID: 760166610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 762
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f55d0c951f71fb44ad467895463d4aa
+      internalID: -577485568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 762
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e93c7e23d4f73498bf00cec1812532
+      internalID: -485409035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 762
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b816783c4c305b146b8ec7efefb85a88
+      internalID: -1925728549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 762
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6316f310fd6584a8c230aacaabf562
+      internalID: 362334742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a348e52f278cc745b7401cf6d039425
+      internalID: 825101005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 730
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc462a3a5e1116418a3a6973b0bb5c0
+      internalID: 1316641954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 730
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01fd6923cb6d04c8a3278d5acc9285
+      internalID: -1308540282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 730
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaa0a8b6592993429548584ac0543f8
+      internalID: -1297761143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 730
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3498a642819cb204ba0c266f1dfd1abf
+      internalID: 727360809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 730
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f50373a6b1eee4dbb4e844de413416
+      internalID: 664482168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 730
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a54ff8688ef1d469dadf786137af6a
+      internalID: -1790319217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509a3d205f9835947afbf968c3ca35d4
+      internalID: -964565349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 698
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a021d92ea5e7cec40ad63c6a8a45956d
+      internalID: -610522928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 698
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81dae6497202714eadad4a6635e4252
+      internalID: 1836195179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 698
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a589f86d1040b784e85f78921808f697
+      internalID: -1246934492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 698
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7105b18eaac6648b36b2ab7170454a
+      internalID: -2005044648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 698
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583ff4075a65634c84bd318ef4bfc17
+      internalID: 1659765640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 698
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5936e720b462754f97224e71d0c1d5b
+      internalID: -479847831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c555384cb543e449295ceed9db4c1e
+      internalID: 162901820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 666
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a8c70dfc27a8429aa77a937d15156
+      internalID: -1347364145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 666
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191e9c74020cac4483b12163037199a
+      internalID: -228357362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 666
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc2a02f0e8c87e4c95237816bbe29a1
+      internalID: 648397249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 666
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80c0d20eaa707846a8b0b6a36f33705
+      internalID: 1539371313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 666
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a149a5f31d4b845a27578e063aae2e
+      internalID: 2010309686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 666
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df0c45e19bbfbe43806d44ff294fb4d
+      internalID: -44528696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 634
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418e2666385308748bc5288e658df795
+      internalID: -1983577263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 634
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708eec375b06b4d4fb29450d67857e05
+      internalID: 1125021155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 634
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79de3a3c5aa401a4594adcb99b52b851
+      internalID: -912115586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 634
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aac44829d8d884995841ef678a0228
+      internalID: 531317414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 634
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da769ef899712f84c87eb4115affe368
+      internalID: 119382985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 634
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb36976ff6cf4a548b14c54b6815ce97
+      internalID: 1809002574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 634
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94167ea194ddb274989a34a294082de8
+      internalID: 695609288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48880db63237d734d8364be4fc0913ac
+      internalID: 412696481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717b683a260b3954e8e6a65015b3e62c
+      internalID: -892049106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980a69f67dacf1e4290dfc03690edf13
+      internalID: -1614405346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731e516b13e0e7c4388b05f3bba7712e
+      internalID: 1606763974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75884222981d9b43b83cb24b7aa3809
+      internalID: 2016905533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee65af31da9c64e8ffa075d7a49c32
+      internalID: -692636342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a148b45c8849b0744b666839178026ab
+      internalID: 1331881247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51395b9e9734c5f48864c6c150a32529
+      internalID: -1159604667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 570
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37576425a708b1c4b80820e12f2ea9b3
+      internalID: 1922654376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 570
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be4edbf59122f94fbff3e185cd3d39c
+      internalID: -368653501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 570
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d662f31e28fff54db2f6ccbcdd6e8f8
+      internalID: 1576496720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 570
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b0349003e703f47b2eb1b954e202db
+      internalID: 1255884821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 570
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b636189c291c564abdcded3918879c9
+      internalID: 25083668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 570
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321dc8c12bbfe2f41aa3497c4448f3a3
+      internalID: -1935710892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596cf84db1abf70499dc73e8db50dcd7
+      internalID: 1917221218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 538
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4858df262f053c64084bec7424f2f94e
+      internalID: 176709108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 538
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b535cc713e8543e4b892a5e8fa222cf9
+      internalID: 456208308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 538
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062886a91b0dce9478f9370b3c5c2981
+      internalID: -1832963695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 538
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c497095097801f4d9edc5f129362aa9
+      internalID: -2132796909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 538
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356e3219ce150fb468f67bf39fbce27d
+      internalID: 984570812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 538
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7ee0a816a9af4418621dcfbd815840
+      internalID: -939298329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ba7fbd045bcc44ea1ae5bb773a084b
+      internalID: -343394013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 506
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08893bf077577747b2340cf6216d603
+      internalID: 1999421996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 506
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809fce6ab374d4e428f280d69982840c
+      internalID: 583255976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 506
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a45bcde4ef7974989efc5131597057
+      internalID: 1490909845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 506
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85cf0b28c0ac1f4683d090f5b6b5fd3
+      internalID: -1112739124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 506
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a795c3017d0809c4a8e025ee723ba5f2
+      internalID: 806032136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 506
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a0026e42d1f36418311ad74d1e0816
+      internalID: 694097244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ff161e613854c4c9d80e60c27b44af
+      internalID: 1449628995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a8a46d6d0f194cac3ad59c81fa9b5
+      internalID: -410594737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d5113fbc3649a49b99838dff4931a7
+      internalID: 195975862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1380ce0fbde774e8ad67f0ee268c42
+      internalID: 1476545441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654b1d8da3a0a4c42a6ff35e8b48557c
+      internalID: -456713594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b8b9da9b740d148a9de910efe686ba
+      internalID: -1852753038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 474
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26bdc49cc95ff84bbbcaba73bca35d8
+      internalID: -2146041153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a61edb6d4d80d469beda92f1e48894
+      internalID: 231112267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd01dac65ee868d4eb958c570c233740
+      internalID: -1273235761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4094404604f0c46864bbde4e730699
+      internalID: 2125959322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a90304f2462c234ca325417beb7135f
+      internalID: -915038972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1090162147dcfe243ba78c96161c378d
+      internalID: 1381918463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d63d2534653f043bb155e0017782d1
+      internalID: 854758345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f155099441035db47aead91bc11e0ed0
+      internalID: -2036714416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943ffa92c7eb26647ad82032b59f57c5
+      internalID: -1817172687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815b459f51bca7044b0f30f0337e0551
+      internalID: -685190934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a774eb5e8aace40b2a7d34ce560b80
+      internalID: 40540974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81139ef9b68f676469242c2255c796a7
+      internalID: 979156856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a3ce3739a706748bce57a0307fba76
+      internalID: -1316934708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06d8012230d28b4588b6a21dbee27cc
+      internalID: 784334028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47e7c21af8da5845bfd5c7018a557bd
+      internalID: 1997103835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691fa9fc2404a3d44ad60b12c5eeddc5
+      internalID: -957521996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec19f13371383499160ed3fc57ea26
+      internalID: 430924479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6305d9794a343cf48b3ed0e227af398a
+      internalID: 204333968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a56aeba6d6b742429ebfd7d5b12220d
+      internalID: 971998755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578a5c7d3f975aa43817c7ecce7e69a1
+      internalID: 2076828969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f19ba09b182517458ed6c3792beb904
+      internalID: 1053647063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1d018f5dabb594086db2355169f310
+      internalID: -1048707502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f1a4490e841d41b905c6e44844d02
+      internalID: 713654200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b724a28e697349be14fb92b80a5c0
+      internalID: 1111523613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee850ad033b60284e8793f4f7a463de0
+      internalID: 176194052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b375c9a409a8142baaf2a21fa1ad4f
+      internalID: 736912581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344e65882d7faea4c94764fb85128f32
+      internalID: -349634799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b8e1582bb19c469ea9c565cc18721
+      internalID: 2123324088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ef668442b44c64ca861818a53e23de
+      internalID: -953455122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d06f73afa73fe458a2aedf2c5519d3
+      internalID: -1632918329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90260ce900e6bef46ab418a8cae85d17
+      internalID: 910814023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c2bdbc96ec14c47b6f539e13891c30
+      internalID: 1584329303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b4bdfb8cbc7e942a7445e24fb97d30
+      internalID: 826399351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a6ac8fe329a849a01578bce141623
+      internalID: -1129854824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94449d022d8384741a68cdf96c36a423
+      internalID: 1628065812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d47623e48cb4f4698475ee0fbcd4c6
+      internalID: 1815590457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb51e72bd8c3f4e97f6931da33150c
+      internalID: -1751798126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1e35793def31b48b9324784479c38e
+      internalID: -692352778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162edae5c9b17dd4c87d30b40f8f59a6
+      internalID: -480577011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5847a849c249b47ad9cdc7fecee9a3
+      internalID: -230487840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f606d87920326248af3d2529a5ab8d4
+      internalID: 2089058371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba8fdcf76def474f88719c591b99366
+      internalID: -543055023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfca06b221cacf4991ce1790fb5f486
+      internalID: 1199820460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b803ea867b5caf41bd88f76faff2fb2
+      internalID: -684116886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f8b20257cd2524eb62371444ad2a5e
+      internalID: 132923598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc23c9702d34540addf7698b61b146
+      internalID: -177092694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d3e8b06dc7de540b720382caff5f19
+      internalID: 1469881262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41074727e29c40548be43812058cdab9
+      internalID: -1831013502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceed1a36ebb9ea499658fe8913bdfc8
+      internalID: -1827512931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eff4a4d41e69e54b9b7e2d7c21f3465
+      internalID: 704659065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc8ae8f7404e77489edb1850e9da695
+      internalID: 1781542099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1819bda5ad67a64595e59997f772ba8
+      internalID: -43255540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed6b749b1e207a41a10a021bea5c7cc
+      internalID: -841803720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_122
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1eaa1f745c3af4cbe49a0a66df2540
+      internalID: 504531983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9083d59658d6040869953df06f74e5
+      internalID: 956810598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134545414b9cbcd428bc3268aab19f1d
+      internalID: 1786160225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab97ec24405a374daeb5e377e707205
+      internalID: 588616275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921a0924878bf814f8c1f2aae592d2ee
+      internalID: 1905804560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f684e5418b090b24d975d5c199957537
+      internalID: -1769301437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8cc14bbde245146a5991e4eb2a84de
+      internalID: 1724991022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7324ea8de540834b8174027da3fe423
+      internalID: 2066783232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f67cda35b897048b2b09b71bff6e26
+      internalID: 123141121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5819bc1cd35a2994ba8784594c1080ff
+      internalID: 281484799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570b631a92a17274385d64080e30a37c
+      internalID: -540010273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e2eb9cffa6f7e46a44f86f40a248e7
+      internalID: -1205779652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_134
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8e965b6206957458c16623620d175b
+      internalID: 1686608894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e493172a76930478c14f8d0c7adb15
+      internalID: -223284616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29e0d4d96e59104db72e32c430f4f20
+      internalID: -1199768504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbde4cebe41e5db418fc2a25e44bfcff
+      internalID: -1128748207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e384ee0085090b14ebe15c4f5f089dfa
+      internalID: -1290178803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bd873e1d4f8dd4b8c21c87dc1e290d
+      internalID: -1875454247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a3f2b8f41dc7647bbe62a7a0cd1f6f
+      internalID: -1216114131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc04d787a5e9a34e901494b6d7154fa
+      internalID: 2052412194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e12812840f3f94fb709a2bf500af8c
+      internalID: -1993913993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b806d87582b48c4cb006eb148d7e339
+      internalID: -167830744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a60f9abe76cdb4d91cbf046c9c2b1a
+      internalID: -1929545680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71b958dd520fd64ba589523cccbf535
+      internalID: 135109042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326de1d424123f940afa00ce0341b68d
+      internalID: -1984506531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4727eef5e20c7e740b1e69d9ba107fca
+      internalID: -573567007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337ef0037a3cd1647bfddf113db8d725
+      internalID: -1063007288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0acfeea737416849a99c2475fafed26
+      internalID: 1157722829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b455c5dab0567b438db581636f2f0ef
+      internalID: -1861122433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e88cddbd1a0e547942f060ac846fb9
+      internalID: -51021086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3723b6e0c42d241a44ee71bc8556bb
+      internalID: 1666357373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91716cff0045caf40b1fbc6217e56a65
+      internalID: -1202443124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef673efda5fc0847b56b022b4fef95a
+      internalID: -369985945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d8c7e280deb25489578338283f2649
+      internalID: 500293303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a04fdd506c543c48bd86ecba5c1cd92
+      internalID: 1281743414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c297deee65574695ba00bee22243a
+      internalID: 500023923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dec102d10387445a1ed8ffef7d3e8e
+      internalID: 1385558397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e6a2448cd917a41a843c7d4fd6f581
+      internalID: -1576361498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a36f1f8d0ebd14ba14a441f0b6dffa
+      internalID: 1343528782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baf080514a0244478f7aff560d0c08c
+      internalID: 1653076450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d017f88cb0b1b40bc2d6e1ca97b711
+      internalID: -1330950191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29deb1f52eb216d4980601a1385a8de4
+      internalID: 848020974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45be2a5f144e88141b57fad001db8fd2
+      internalID: 705530784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_165
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d380ae74532ce843ad74cca4fc5df91
+      internalID: 943890538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_166
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49503f6107ef84040968dfc92e0b5cf8
+      internalID: 976219782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beach_sand_woa3_167
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c611cd1562bdb47be7ab271160e6d4
+      internalID: 1578369557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      beach_sand_woa3_0: -1205438531
+      beach_sand_woa3_1: -1746021042
+      beach_sand_woa3_10: -1297761143
+      beach_sand_woa3_100: 1584329303
+      beach_sand_woa3_101: 826399351
+      beach_sand_woa3_102: -1129854824
+      beach_sand_woa3_103: 1628065812
+      beach_sand_woa3_104: 1815590457
+      beach_sand_woa3_105: -1751798126
+      beach_sand_woa3_106: -692352778
+      beach_sand_woa3_107: -480577011
+      beach_sand_woa3_108: -230487840
+      beach_sand_woa3_109: 2089058371
+      beach_sand_woa3_11: 727360809
+      beach_sand_woa3_110: -543055023
+      beach_sand_woa3_111: 1199820460
+      beach_sand_woa3_112: -684116886
+      beach_sand_woa3_113: 132923598
+      beach_sand_woa3_114: -177092694
+      beach_sand_woa3_115: 1469881262
+      beach_sand_woa3_116: -1831013502
+      beach_sand_woa3_117: -1827512931
+      beach_sand_woa3_118: 704659065
+      beach_sand_woa3_119: 1781542099
+      beach_sand_woa3_12: 664482168
+      beach_sand_woa3_120: -43255540
+      beach_sand_woa3_121: -841803720
+      beach_sand_woa3_122: 504531983
+      beach_sand_woa3_123: 956810598
+      beach_sand_woa3_124: 1786160225
+      beach_sand_woa3_125: 588616275
+      beach_sand_woa3_126: 1905804560
+      beach_sand_woa3_127: -1769301437
+      beach_sand_woa3_128: 1724991022
+      beach_sand_woa3_129: 2066783232
+      beach_sand_woa3_13: -1790319217
+      beach_sand_woa3_130: 123141121
+      beach_sand_woa3_131: 281484799
+      beach_sand_woa3_132: -540010273
+      beach_sand_woa3_133: -1205779652
+      beach_sand_woa3_134: 1686608894
+      beach_sand_woa3_135: -223284616
+      beach_sand_woa3_136: -1199768504
+      beach_sand_woa3_137: -1128748207
+      beach_sand_woa3_138: -1290178803
+      beach_sand_woa3_139: -1875454247
+      beach_sand_woa3_14: -964565349
+      beach_sand_woa3_140: -1216114131
+      beach_sand_woa3_141: 2052412194
+      beach_sand_woa3_142: -1993913993
+      beach_sand_woa3_143: -167830744
+      beach_sand_woa3_144: -1929545680
+      beach_sand_woa3_145: 135109042
+      beach_sand_woa3_146: -1984506531
+      beach_sand_woa3_147: -573567007
+      beach_sand_woa3_148: -1063007288
+      beach_sand_woa3_149: 1157722829
+      beach_sand_woa3_15: -610522928
+      beach_sand_woa3_150: -1861122433
+      beach_sand_woa3_151: -51021086
+      beach_sand_woa3_152: 1666357373
+      beach_sand_woa3_153: -1202443124
+      beach_sand_woa3_154: -369985945
+      beach_sand_woa3_155: 500293303
+      beach_sand_woa3_156: 1281743414
+      beach_sand_woa3_157: 500023923
+      beach_sand_woa3_158: 1385558397
+      beach_sand_woa3_159: -1576361498
+      beach_sand_woa3_16: 1836195179
+      beach_sand_woa3_160: 1343528782
+      beach_sand_woa3_161: 1653076450
+      beach_sand_woa3_162: -1330950191
+      beach_sand_woa3_163: 848020974
+      beach_sand_woa3_164: 705530784
+      beach_sand_woa3_165: 943890538
+      beach_sand_woa3_166: 976219782
+      beach_sand_woa3_167: 1578369557
+      beach_sand_woa3_17: -1246934492
+      beach_sand_woa3_18: -2005044648
+      beach_sand_woa3_19: 1659765640
+      beach_sand_woa3_2: 760166610
+      beach_sand_woa3_20: -479847831
+      beach_sand_woa3_21: 162901820
+      beach_sand_woa3_22: -1347364145
+      beach_sand_woa3_23: -228357362
+      beach_sand_woa3_24: 648397249
+      beach_sand_woa3_25: 1539371313
+      beach_sand_woa3_26: 2010309686
+      beach_sand_woa3_27: -44528696
+      beach_sand_woa3_28: -1983577263
+      beach_sand_woa3_29: 1125021155
+      beach_sand_woa3_3: -577485568
+      beach_sand_woa3_30: -912115586
+      beach_sand_woa3_31: 531317414
+      beach_sand_woa3_32: 119382985
+      beach_sand_woa3_33: 1809002574
+      beach_sand_woa3_34: 695609288
+      beach_sand_woa3_35: 412696481
+      beach_sand_woa3_36: -892049106
+      beach_sand_woa3_37: -1614405346
+      beach_sand_woa3_38: 1606763974
+      beach_sand_woa3_39: 2016905533
+      beach_sand_woa3_4: -485409035
+      beach_sand_woa3_40: -692636342
+      beach_sand_woa3_41: 1331881247
+      beach_sand_woa3_42: -1159604667
+      beach_sand_woa3_43: 1922654376
+      beach_sand_woa3_44: -368653501
+      beach_sand_woa3_45: 1576496720
+      beach_sand_woa3_46: 1255884821
+      beach_sand_woa3_47: 25083668
+      beach_sand_woa3_48: -1935710892
+      beach_sand_woa3_49: 1917221218
+      beach_sand_woa3_5: -1925728549
+      beach_sand_woa3_50: 176709108
+      beach_sand_woa3_51: 456208308
+      beach_sand_woa3_52: -1832963695
+      beach_sand_woa3_53: -2132796909
+      beach_sand_woa3_54: 984570812
+      beach_sand_woa3_55: -939298329
+      beach_sand_woa3_56: -343394013
+      beach_sand_woa3_57: 1999421996
+      beach_sand_woa3_58: 583255976
+      beach_sand_woa3_59: 1490909845
+      beach_sand_woa3_6: 362334742
+      beach_sand_woa3_60: -1112739124
+      beach_sand_woa3_61: 806032136
+      beach_sand_woa3_62: 694097244
+      beach_sand_woa3_63: 1449628995
+      beach_sand_woa3_64: -410594737
+      beach_sand_woa3_65: 195975862
+      beach_sand_woa3_66: 1476545441
+      beach_sand_woa3_67: -456713594
+      beach_sand_woa3_68: -1852753038
+      beach_sand_woa3_69: -2146041153
+      beach_sand_woa3_7: 825101005
+      beach_sand_woa3_70: 231112267
+      beach_sand_woa3_71: -1273235761
+      beach_sand_woa3_72: 2125959322
+      beach_sand_woa3_73: -915038972
+      beach_sand_woa3_74: 1381918463
+      beach_sand_woa3_75: 854758345
+      beach_sand_woa3_76: -2036714416
+      beach_sand_woa3_77: -1817172687
+      beach_sand_woa3_78: -685190934
+      beach_sand_woa3_79: 40540974
+      beach_sand_woa3_8: 1316641954
+      beach_sand_woa3_80: 979156856
+      beach_sand_woa3_81: -1316934708
+      beach_sand_woa3_82: 784334028
+      beach_sand_woa3_83: 1997103835
+      beach_sand_woa3_84: -957521996
+      beach_sand_woa3_85: 430924479
+      beach_sand_woa3_86: 204333968
+      beach_sand_woa3_87: 971998755
+      beach_sand_woa3_88: 2076828969
+      beach_sand_woa3_89: 1053647063
+      beach_sand_woa3_9: -1308540282
+      beach_sand_woa3_90: -1048707502
+      beach_sand_woa3_91: 713654200
+      beach_sand_woa3_92: 1111523613
+      beach_sand_woa3_93: 176194052
+      beach_sand_woa3_94: 736912581
+      beach_sand_woa3_95: -349634799
+      beach_sand_woa3_96: 2123324088
+      beach_sand_woa3_97: -953455122
+      beach_sand_woa3_98: -1632918329
+      beach_sand_woa3_99: 910814023
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
