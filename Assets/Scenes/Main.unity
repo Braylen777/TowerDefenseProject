@@ -4818,8 +4818,8 @@ MonoBehaviour:
   enemyPrefabs:
   - {fileID: 2840384434213081020, guid: b0d5f45e1d16f994da589582af42432a, type: 3}
   - {fileID: 1612262288350150861, guid: 02364f4c42f0dec48adbeef7ce948615, type: 3}
-  baseEnemies: 8
-  enemiesPerSecond: 0.5
+  baseEnemies: 2147483647
+  enemiesPerSecond: 2
   WaveDownTime: 2
   DifficultyScaling: 0.75
 --- !u!114 &1136817792
