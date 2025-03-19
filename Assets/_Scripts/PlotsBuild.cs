@@ -30,8 +30,8 @@ public class PlotsBuild : MonoBehaviour
     {
         if (tower != null) return;
         
-       GameObject towerToBuild = BuildingManager.main.GetSelectedTower();
-        tower = Instantiate(towerToBuild, transform.position, Quaternion.identity);
+       TowerS towerToBuild = BuildingManager.main.GetSelectedTower();
+        tower = Instantiate(towerToBuild.prefab, transform.position, Quaternion.identity);
         //Debug.Log("Tower Built");
     }
 

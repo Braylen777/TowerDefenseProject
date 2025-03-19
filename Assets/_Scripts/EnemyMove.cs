@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EnemyMove : MonoBehaviour
 {
@@ -27,8 +28,9 @@ public class EnemyMove : MonoBehaviour
             if (pathIndex == GameManager.main.path.Length)
             {
                 EnemySpawner.onEnemyDeath.Invoke();
-                Debug.Log("Player Loses 1 Health!");
+                Debug.Log("Player Has Fallen!");
                 Destroy(gameObject);
+                SceneManager.LoadScene("Main");
                 return;
                 
             } 

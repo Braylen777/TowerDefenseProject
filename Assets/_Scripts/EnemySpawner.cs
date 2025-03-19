@@ -20,6 +20,7 @@ public class EnemySpawner : MonoBehaviour
     private float TimeSinceLastSpawn;
     private int AliveEnemies;
     private int RemainingToSpawnEnemies;
+    private float EPS; //EnemiesPerSecond
     private bool isSpawning = false;
 
     private void Awake()
@@ -37,7 +38,7 @@ public class EnemySpawner : MonoBehaviour
 
         TimeSinceLastSpawn += Time.deltaTime;
 
-        if (TimeSinceLastSpawn >= (1.0f/ enemiesPerSecond) && RemainingToSpawnEnemies > 0)
+        if (TimeSinceLastSpawn >= (1.0f/ EPS) && RemainingToSpawnEnemies > 0)
         {
             
             SpawnEnemy();
@@ -61,6 +62,7 @@ public class EnemySpawner : MonoBehaviour
 
         isSpawning = true;
         RemainingToSpawnEnemies = EnemiespPerWave();
+        EPS = EnemiespPerSecond();
     }
 
     private void EndWave()
@@ -73,7 +75,8 @@ public class EnemySpawner : MonoBehaviour
     private void SpawnEnemy()
     {
         //Debug.Log("Enemy Spawned!");
-        GameObject prefabToSpawn = enemyPrefabs[0];
+        int index = Random.Range(0, enemyPrefabs.Length);
+        GameObject prefabToSpawn = enemyPrefabs[index];
         Instantiate(prefabToSpawn, GameManager.main.StartPoint.position, Quaternion.identity);
     }
     private int EnemiespPerWave() 
@@ -81,6 +84,9 @@ public class EnemySpawner : MonoBehaviour
         return Mathf.RoundToInt(baseEnemies * Mathf.Pow(currentWave, DifficultyScaling));
     }
 
-
+    private int EnemiespPerSecond()
+    {
+        return Mathf.RoundToInt(enemiesPerSecond * Mathf.Pow(currentWave, DifficultyScaling));
+    }
 
 }
