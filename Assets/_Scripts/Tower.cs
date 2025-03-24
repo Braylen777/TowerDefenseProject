@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEditor;
+//using UnityEditor;
 public class Tower : MonoBehaviour
 {
     [Header("References")]
@@ -74,15 +74,14 @@ public class Tower : MonoBehaviour
         TowerRotationPoint.rotation = Quaternion.RotateTowards(TowerRotationPoint.rotation, targetRotation, rotationSpeed * Time.deltaTime);
     }
 
-#if UNITY_EDITOR
-    private void OnDrawGizmosSelected()
-    {
-        Handles.color = Color.cyan;
-        Handles.DrawWireDisc(transform.position, transform.forward, TargetingRange);
-    }
+
+   // private void OnDrawGizmosSelected()
+    //{
+     //   Handles.color = Color.cyan;
+      //  Handles.DrawWireDisc(transform.position, transform.forward, TargetingRange);
+    //}
 
 
 
 
 }
-#endif
