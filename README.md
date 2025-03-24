@@ -12,23 +12,35 @@
 # Required ReadMe Info for ALL MCS1653 Projects
 * **Project**   - Tower Defense
 * **Your Name** - Braylen Allen
-* **Date**      - 
+* **Date**      - 3/24/2025
 
 <br>
 
 1. **What are the controls to your game? How do we play?**
 
-
+Mouse for navigation and Left Click to select
 
 <br>
 
 2. **What creative additions did you make? How can we find them?**
 
-
+I made a wave based tower defense. One creative addition is the difficulty scale that increases the more waves you clear.
 
 <br>
 
 3. **Any assets used that you didn't create yourself?** <br> (art, music, etc. Just tell us where you got it, link it here)
+
+Music/Sounds- 
+Beach Dance - EDM Dance Cinematic Party Eletro Chill Happy 120bpm Music - EQ Mastered.wav by szegvari -- https://freesound.org/s/607304/ -- License: Creative Commons 0
+Jingle_Lose_00.wav by LittleRobotSoundFactory -- https://freesound.org/s/270329/ -- License: Attribution 4.0
+Tropical beach - Cinematic Beach Tropical Music Waves Drum Synth Nature Mastered.wav by szegvari -- https://freesound.org/s/595776/ -- License: Creative Commons 0
+sodacan by aspenholden -- https://freesound.org/s/788283/ -- License: Creative Commons 0
+LEGO Brick Fall 6 by rioforce -- https://freesound.org/s/233642/ -- License: Creative Commons 0
+Pop_9.aif by SunnySideSound -- https://freesound.org/s/67095/ -- License: Attribution 4.0
+
+Assets-
+https://opengameart.org/content/beach-background
+https://opengameart.org/users/redshrike?page=1
 
 
 
@@ -41,20 +53,21 @@
 <br>
 
 5. **Did you get help from any AI Code Assistants?** <br> (Tell us which .cs file to look in for the citation and describe what you learned)
-
+No AI code assistance
 
 
 <br>
 
 6. **Did you get help from any online websites, videos, or tutorials?** <br> (link them here)
 
-
+Unity Discussions
+https://youtu.be/5j8A79-YUo0?si=-EtETz6nV9041QeV
 
 <br>
 
 7. **What trouble did you have with this project?**
 
-
+A big hurdle during this project was getting the towers to place correctly. Most script issues originated from getting the towers to interact with the enemies.
 
 <br>
 
