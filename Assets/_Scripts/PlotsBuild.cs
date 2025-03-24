@@ -8,8 +8,10 @@ public class PlotsBuild : MonoBehaviour
     [SerializeField] private SpriteRenderer sr;
     [SerializeField] private Color hoverColor;
 
+    public AudioClip buildSound;
     private GameObject tower;
     private Color startColor;
+    private Vector3 point;
 
     private void Start()
     {
@@ -29,8 +31,9 @@ public class PlotsBuild : MonoBehaviour
     private void OnMouseDown()
     {
         if (tower != null) return;
-        
-       TowerS towerToBuild = BuildingManager.main.GetSelectedTower();
+
+        AudioSource.PlayClipAtPoint(buildSound, point);
+        TowerS towerToBuild = BuildingManager.main.GetSelectedTower();
         tower = Instantiate(towerToBuild.prefab, transform.position, Quaternion.identity);
         //Debug.Log("Tower Built");
     }

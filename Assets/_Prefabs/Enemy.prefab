@@ -173,7 +173,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 7319717673015437019}
-  moveSpeed: 4.5
+  moveSpeed: 3.25
+  loseSound: {fileID: 8300000, guid: 226af83eaebed9f45af509f5d9600724, type: 3}
 --- !u!114 &9014385631203898585
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -187,3 +188,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   HP: 5
+  EKillSound: {fileID: 8300000, guid: 684fcb924e0ad1a4eba00ee9ffe584f2, type: 3}

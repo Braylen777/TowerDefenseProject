@@ -162,5 +162,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 4263623988830214310}
-  BulletSpeed: 10
-  BulletDmg: 4
+  BulletSpeed: 4
+  BulletDmg: 3
+  bulletSound: {fileID: 8300000, guid: 25eb22a153146e945af251dcd27a8592, type: 3}

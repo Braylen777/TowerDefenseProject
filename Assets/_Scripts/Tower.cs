@@ -74,6 +74,7 @@ public class Tower : MonoBehaviour
         TowerRotationPoint.rotation = Quaternion.RotateTowards(TowerRotationPoint.rotation, targetRotation, rotationSpeed * Time.deltaTime);
     }
 
+#if UNITY_EDITOR
     private void OnDrawGizmosSelected()
     {
         Handles.color = Color.cyan;
@@ -84,3 +85,4 @@ public class Tower : MonoBehaviour
 
 
 }
+#endif

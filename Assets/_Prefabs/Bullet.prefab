@@ -164,3 +164,4 @@ MonoBehaviour:
   rb: {fileID: 4263623988830214310}
   BulletSpeed: 5
   BulletDmg: 1
+  bulletSound: {fileID: 8300000, guid: ab9e432051c646d4297c9f739e267397, type: 3}

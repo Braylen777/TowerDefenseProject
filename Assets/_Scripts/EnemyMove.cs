@@ -14,6 +14,7 @@ public class EnemyMove : MonoBehaviour
     private Transform target;
     private int pathIndex = 0;
 
+   
     private void Start()
     {
         target = GameManager.main.path[pathIndex];
@@ -30,7 +31,7 @@ public class EnemyMove : MonoBehaviour
                 EnemySpawner.onEnemyDeath.Invoke();
                 Debug.Log("Player Has Fallen!");
                 Destroy(gameObject);
-                SceneManager.LoadScene("Main");
+                SceneManager.LoadScene("GameOverScene");
                 return;
                 
             } 

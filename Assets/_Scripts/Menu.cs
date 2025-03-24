@@ -1,12 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
+using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
-    public void SetSelected()
+    public void OnRestartButton()
     {
-
+        SceneManager.LoadScene("Main");
     }
+
+    public void OnMainButton()
+    {
+        SceneManager.LoadScene("TitleScreen");
+    }
+
+
+
+
 }
